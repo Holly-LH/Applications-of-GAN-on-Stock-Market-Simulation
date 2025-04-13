@@ -1,0 +1,1 @@
+# Applications-of-GAN-on-Stock-Market-Simulation
